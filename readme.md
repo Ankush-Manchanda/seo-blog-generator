@@ -87,14 +87,14 @@ This project is an AI-powered tool that automates the creation of SEO-optimized 
 
 ```
 seo-blog-generator/
-├── app.py                   # Main Streamlit app
-├── scrape_amazon.py         # Scraper for trending products
-├── get_keywords.py          # SEO keyword generator
-├── generate_blog.py         # Blog content generator (OpenAI)
-├── requirements.txt
-└── README.md
-```
+|-- app.py                   # Main Streamlit app
+|-- scrape_amazon.py         # Scraper for trending products
+|-- get_keywords.py          # SEO keyword generator
+|-- generate_blog.py         # Blog content generator (OpenAI)
+|-- requirements.txt
+|-- README.md
 
+```
 ---------------------------------------------------------
 
 ## ⚠️ Known Issues
@@ -118,7 +118,7 @@ seo-blog-generator/
 ## 👨‍💻 Author
 
 **Ankush Manchanda**  
-🔗 [GitHub](https://ankush-manchanda.github.io/masterportfolio) | 📧 ankushmanchanda111@gmail.com
+🔗 [GitHub]("https://ankush-manchanda.github.io/masterportfolio") | 📧 ankushmanchanda111@gmail.com
 
 ---------------------------------------------------------
 
